@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/blue"
+            app:cardCornerRadius="25dp">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp"
+                android:background="@color/blue10"
+                android:backgroundTint="@color/blue"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/icon" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:padding="8dp"
+            android:text="@string/about_hydratracker"
+            android:textColor="@color/blue"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/welcome_to_hydratracker"
+            android:textColor="@color/textColo"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:padding="12dp"
+            android:text="@string/staying_hydratedy"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/why_stay_hydrated"
+            android:textColor="@color/textColo"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:padding="12dp"
+            android:text="@string/boosts_energy_levels"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/key_features"
+            android:textColor="@color/textColo"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/personalized_hydration_goals"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/set_daily_water_intake"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/smart_water_reminders"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/never_forget_to_drink"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/track_your_progress"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/monitor_your_daily_weekly"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/dark_mode_support"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/customize_your_experience"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/lightweight_amp_battery_friendly"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/designed_to_work_efficiently_witho"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingTop="8dp"
+            android:textStyle="bold"
+            android:text="@string/user_friendly_interface"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/a_clean_minimal"
+            android:textColor="@color/textColo" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:textStyle="bold"
+            android:paddingTop="8dp"
+            android:text="@string/no_ads_100_free"
+            android:textColor="@color/textColo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:text="@string/focus_on_your_health_without_distractions"
+            android:textColor="@color/textColo" />
+
+
+
+
+        <Button
+            android:id="@+id/btnFeedback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/blue"
+            android:text="@string/send_feedback"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</ScrollView>

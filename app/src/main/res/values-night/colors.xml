@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>  <!-- White instead of Black -->
+    <color name="white">#FF000000</color>  <!-- Black instead of White -->
+    <color name="blue100">#3A99C9</color>  <!-- Darker Blue -->
+    <color name="blue50">#1A3E5A</color>   <!-- Dark Background -->
+    <color name="blue10">#12293D</color>   <!-- Even Darker -->
+    <color name="blue">#008CBA</color>     <!-- Adjusted Blue -->
+    <color name="textColo">#E0E0E0</color> <!-- Light Text -->
+    <color name="darkBlue">#0A5FCF</color> <!-- Adjusted Dark Blue -->
+    <color name="inputBackground">#121212</color> <!-- Dark background -->
+    <color name="inputTextColor">#FFFFFF</color>   <!-- White text -->
+    <color name="inputHintColor">#B0B0B0</color>   <!-- Lighter hint color -->
+
+    <color name="progress_10">#D32F2F</color>
+    <color name="progress_100">#0D470D</color> <!-- Vert très foncé -->
+
+</resources>
+

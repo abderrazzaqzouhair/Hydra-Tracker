@@ -1,0 +1,17 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#E0F7FA"/>
+            <stroke android:width="5dp" android:color="#81D4FA"/>
+        </shape>
+    </item>
+    <item>
+        <clip android:clipOrientation="vertical" android:gravity="bottom">
+            <shape android:shape="oval">
+                <solid android:color="#03A9F4"/>
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

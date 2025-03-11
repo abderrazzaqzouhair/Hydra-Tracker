@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Hydra Tracker</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="forgot_password"><u>Mot de passe oublié</u></string>
+    <string name="sign_up"><u>S\'inscrire</u></string>
+    <string name="log_in"><u>Se connecter</u></string>
+    <string name="terms_of_service"><u>Conditions d\'utilisation</u></string>
+    <string name="privacy_policy"><u>Politique de confidentialité</u></string>
+    <string name="resend"><u>Renvoyer</u></string>
+    <string name="home">Accueil</string>
+    <string name="goals">Objectifs</string>
+    <string name="advice">Conseils</string>
+    <string name="profile">Profil</string>
+    <string name="hydra_tracker">Hydra Tracker</string>
+    <string name="todo">À faire</string>
+    <string name="notification">Notification</string>
+    <string name="next">Suivant</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="authontifiction_conpleted">Authentification terminée</string>
+    <string name="congratulations">Félicitations, vous êtes maintenant vérifié! Veuillez vous connecter</string>
+    <string name="continuee">Continuer</string>
+    <string name="entre_email">Entrez votre e-mail pour obtenir un lien de récupération</string>
+    <string name="enter_you_email_address">Entrez votre adresse e-mail</string>
+    <string name="send">Envoyer</string>
+    <string name="didn_t_receive_the_email">Vous n\'avez pas reçu l\'e-mail ?</string>
+    <string name="good_morning">Bonjour,</string>
+    <string name="dayli_target">Objectif quotidien</string>
+    <string name="target">Objectif</string>
+    <string name="login">Se connecter</string>
+    <string name="securely_login_to_your_account">Connectez-vous en toute sécurité à votre compte</string>
+    <string name="email_address">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="or_continue_with">- OU Continuez avec -</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="create_an_account">Créer un compte</string>
+    <string name="track_your_daily">Suivez votre consommation quotidienne d\'eau avec nous.</string>
+    <string name="achieve_your_hydration">Atteignez vos objectifs d\'hydratation en un simple geste!</string>
+    <string name="smart_reminders">Rappels intelligents personnalisés pour vous</string>
+    <string name="quick_and_easy">Simple et rapide pour définir votre objectif d\'hydratation et suivre votre consommation d\'eau quotidienne.</string>
+    <string name="easy_to_use_drink_tap_repeat">Facile à utiliser – Buvez, appuyez, répétez</string>
+    <string name="staying_hydrated">Restez hydraté tous les jours avec l\'application Drops Water Tracker.</string>
+    <string name="full_name">Nom complet</string>
+    <string name="date_de_naissance">Date de naissance</string>
+    <string name="create_a_new_password">Créer un nouveau mot de passe</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="i_already_have_an_account">J\'ai déjà un compte</string>
+    <string name="by_continuing_you_agree_to_our">En continuant, vous acceptez nos</string>
+    <string name="and">et</string>
+    <string name="settings">Paramètres</string>
+    <string name="location">Emplacement</string>
+    <string name="en">FR</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="language">Langue</string>
+    <string name="help">Aide</string>
+    <string name="log_out">Se déconnecter</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="select_language">Choisir la langue</string>
+    <string name="arabic">Arabe</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+    <string name="change_password">changer mot de passe</string>
+
+    <string name="advice_start_day_with_water">Commencez votre journée avec de l\'eau</string>
+    <string name="advice_start_day_with_water_description">Buvez un verre d\'eau dès votre réveil pour réhydrater votre corps, stimuler votre métabolisme et éliminer les toxines.</string>
+
+    <string name="advice_set_hydration_goal">Fixez un objectif d\'hydratation</string>
+    <string name="advice_set_hydration_goal_description">Visez au moins 2-3 litres (8-12 verres) d\'eau par jour. Augmentez votre consommation si vous faites de l\'exercice ou vivez dans un climat chaud.</string>
+
+    <string name="advice_drink_before_thirsty">Buvez avant d\'avoir soif</string>
+    <string name="advice_drink_before_thirsty_description">La soif est un signe tardif de déshydratation. Sirotez de l\'eau tout au long de la journée au lieu d\'attendre d\'avoir soif.</string>
+
+    <string name="advice_infuse_water_with_flavor">Infusez de l\'eau avec des saveurs</string>
+    <string name="advice_infuse_water_with_flavor_description">Ajoutez du citron, du concombre, de la menthe ou des baies à votre eau pour rendre l\'hydratation plus agréable et rafraîchissante.</string>
+
+    <string name="advice_carry_water_bottle">Transportez une bouteille d\'eau</string>
+    <string name="advice_carry_water_bottle_description">Gardez une bouteille d\'eau réutilisable avec vous pour vous rappeler de boire régulièrement et suivre votre consommation.</string>
+
+    <string name="advice_eat_water_rich_foods">Mangez des aliments riches en eau</string>
+    <string name="advice_eat_water_rich_foods_description">L\'hydratation ne se limite pas à boire. Incluez des concombres, de la pastèque, des oranges et de la laitue dans votre alimentation.</string>
+
+    <string name="advice_set_hydration_reminders">Définissez des rappels d\'hydratation</string>
+    <string name="advice_set_hydration_reminders_description">Utilisez des alarmes téléphoniques ou des applications d\'hydratation pour vous rappeler de boire de l\'eau, surtout lorsque vous êtes occupé.</string>
+    <string name="current_password">Mot de passe actuel</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="about_us">À propos de nous</string>
+    <string name="about_hydratracker">À propos de HydraTracker</string>
+    <string name="personalized_hydration_goals">- Objectifs d\'hydratation personnalisés 🎯 :</string>
+    <string name="set_daily_water_intake">Définissez des objectifs quotidiens de consommation d\'eau en fonction de vos besoins corporels et de vos niveaux d\'activité.</string>
+    <string name="smart_water_reminders">- Rappels intelligents d\'eau 🔔 :</string>
+    <string name="never_forget_to_drink">Ne jamais oublier de boire de l\'eau grâce à des rappels personnalisés selon votre emploi du temps.</string>
+    <string name="key_features">Fonctionnalités clés :</string>
+    <string name="welcome_to_hydratracker">🌊 Bienvenue sur HydraTracker ! 🌊</string>
+    <string name="staying_hydratedy">Rester hydraté est l\'un des aspects les plus simples mais les plus importants d\'un mode de vie sain. HydraTracker est votre **assistant personnel d\'hydratation**, conçu pour vous aider à **surveiller et améliorer** votre consommation quotidienne d\'eau sans effort.</string>
+    <string name="why_stay_hydrated">Pourquoi rester hydraté ?</string>
+    <string name="boosts_energy_levels"><![CDATA[✅ Augmente les niveaux d\'énergie ⚡\n ✅ Améliore la concentration et les fonctions cérébrales 🧠\n ✅ Favorise une peau saine et une bonne digestion ✨\n ✅ Préviens la déshydratation et la fatigue 💧\n ✅ Soutient le bien-être général 💙\n]]></string>
+    <string name="track_your_progress">- Suivez vos progrès 📊 :</string>
+    <string name="monitor_your_daily_weekly">Surveillez vos habitudes d\'hydratation quotidiennes, hebdomadaires et mensuelles avec des graphiques intuitifs.</string>
+    <string name="dark_mode_support">- Prise en charge du mode sombre 🌙 :</string>
+    <string name="customize_your_experience">Personnalisez votre expérience avec un mode sombre élégant pour une meilleure visibilité la nuit.</string>
+    <string name="lightweight_amp_battery_friendly"><![CDATA[- Léger et économe en batterie ⚡ :]]></string>
+    <string name="designed_to_work_efficiently_witho">Conçu pour fonctionner efficacement sans vider la batterie de votre téléphone.</string>
+    <string name="user_friendly_interface">- Interface conviviale 🎨 :</string>
+    <string name="a_clean_minimal">Un design épuré, minimaliste et intuitif pour une expérience de suivi fluide.</string>
+    <string name="no_ads_100_free">- Sans publicité, 100% gratuit 🚀 :</string>
+    <string name="focus_on_your_health_without_distractions">Concentrez-vous sur votre santé sans distractions.</string>
+    <string name="send_feedback">Envoyer des commentaires</string>
+    <string name="drinking_time">moment de boire</string>
+    <string name="read_more">Lire la suite</string>
+
+</resources>

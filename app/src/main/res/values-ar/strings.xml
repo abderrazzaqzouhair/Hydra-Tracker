@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">هايدرا تراكر</string>
+    <string name="hello_blank_fragment">مرحبًا بك في الفراغ</string>
+    <string name="forgot_password"><u>نسيت كلمة المرور</u></string>
+    <string name="sign_up"><u>التسجيل</u></string>
+    <string name="log_in"><u>تسجيل الدخول</u></string>
+    <string name="terms_of_service"><u>شروط الخدمة</u></string>
+    <string name="privacy_policy"><u>سياسة الخصوصية</u></string>
+    <string name="resend"><u>إعادة إرسال</u></string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="goals">الأهداف</string>
+    <string name="advice">نصيحة</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="hydra_tracker">هايدرا تراكر</string>
+    <string name="todo">المهام</string>
+    <string name="notification">الإشعارات</string>
+    <string name="next">التالي</string>
+    <string name="confirmer">تأكيد</string>
+    <string name="authontifiction_conpleted">تم التوثيق بنجاح</string>
+    <string name="congratulations">مبروك! تم التحقق من حسابك. يرجى متابعة تسجيل الدخول</string>
+    <string name="continuee">استمر</string>
+    <string name="entre_email">أدخل بريدك الإلكتروني للحصول على رابط الاستعادة</string>
+    <string name="enter_you_email_address">أدخل عنوان بريدك الإلكتروني</string>
+    <string name="send">إرسال</string>
+    <string name="didn_t_receive_the_email">لم تستلم البريد الإلكتروني؟</string>
+    <string name="good_morning">صباح الخير،</string>
+    <string name="dayli_target">الهدف اليومي</string>
+    <string name="target">الهدف</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="securely_login_to_your_account">تسجيل الدخول بأمان إلى حسابك</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="or_continue_with">- أو استمر باستخدام -</string>
+    <string name="google">جوجل</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="create_an_account">إنشاء حساب</string>
+    <string name="track_your_daily">تتبع استهلاكك اليومي للمياه معنا.</string>
+    <string name="achieve_your_hydration">حقق أهدافك في الترطيب بضغطة بسيطة!</string>
+    <string name="smart_reminders">تذكيرات ذكية تناسبك</string>
+    <string name="quick_and_easy">سهل وسريع لتحديد هدف الترطيب الخاص بك وتتبع تقدمك في استهلاك المياه.</string>
+    <string name="easy_to_use_drink_tap_repeat">سهل الاستخدام – اشرب، اضغط، كرر</string>
+    <string name="staying_hydrated">الحفاظ على الترطيب يوميًا أمر سهل مع تطبيق Drops Water Tracker.</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="date_de_naissance">تاريخ الميلاد</string>
+    <string name="create_a_new_password">إنشاء كلمة مرور جديدة</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="i_already_have_an_account">لدي حساب بالفعل</string>
+    <string name="by_continuing_you_agree_to_our">بمواصلتك، فإنك توافق على</string>
+    <string name="and">و</string>
+    <string name="settings">الإعدادات</string>
+    <string name="location">الموقع</string>
+    <string name="en">العربية</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="help">مساعدة</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="version_1_0_0">الإصدار 1.0.0</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="french">الفرنسية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+
+    <string name="advice_start_day_with_water">ابدأ يومك بالماء</string>
+    <string name="advice_start_day_with_water_description">اشرب كوبًا من الماء بمجرد استيقاظك لإعادة ترطيب جسمك، وتحفيز عملية التمثيل الغذائي، وإزالة السموم.</string>
+
+    <string name="advice_set_hydration_goal">حدد هدفًا للترطيب</string>
+    <string name="advice_set_hydration_goal_description">احرص على شرب 2-3 لترات (8-12 كوبًا) من الماء يوميًا. زد الكمية إذا كنت تمارس الرياضة أو تعيش في مناخ حار.</string>
+
+    <string name="advice_drink_before_thirsty">اشرب قبل أن تشعر بالعطش</string>
+    <string name="advice_drink_before_thirsty_description">العطش هو علامة متأخرة للجفاف. اشرب الماء على مدار اليوم بدلًا من الانتظار حتى تشعر بالعطش.</string>
+
+    <string name="advice_infuse_water_with_flavor">أضف نكهة إلى الماء</string>
+    <string name="advice_infuse_water_with_flavor_description">أضف الليمون أو الخيار أو النعناع أو التوت إلى الماء لجعل الترطيب أكثر متعة وانتعاشًا.</string>
+
+    <string name="advice_carry_water_bottle">احمل زجاجة ماء</string>
+    <string name="advice_carry_water_bottle_description">احتفظ بزجاجة ماء قابلة لإعادة الاستخدام لتذكير نفسك بالشرب بانتظام وتتبع الكمية التي تشربها.</string>
+
+    <string name="advice_eat_water_rich_foods">تناول الأطعمة الغنية بالماء</string>
+    <string name="advice_eat_water_rich_foods_description">الترطيب لا يقتصر على الشرب فقط. قم بتضمين الخيار والبطيخ والبرتقال والخس في نظامك الغذائي.</string>
+
+    <string name="advice_set_hydration_reminders">اضبط تذكيرات الترطيب</string>
+    <string name="advice_set_hydration_reminders_description">استخدم منبهات الهاتف أو تطبيقات الترطيب لتذكير نفسك بشرب الماء، خاصة عندما تكون مشغولاً.</string>
+
+    <string name="read_more">اقرأ المزيد</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="about_hydratracker">معلومات عن HydraTracker</string>
+    <string name="personalized_hydration_goals">- أهداف ترطيب مخصصة 🎯 :</string>
+    <string name="set_daily_water_intake">حدد أهدافًا يومية لاستهلاك الماء بناءً على احتياجات جسمك ومستويات نشاطك.</string>
+    <string name="smart_water_reminders">- تذكيرات ذكية لشرب الماء 🔔 :</string>
+    <string name="never_forget_to_drink">لا تنسَ أبدًا شرب الماء مع تذكيرات مخصصة لجدولك اليومي.</string>
+    <string name="key_features">الميزات الرئيسية:</string>
+    <string name="welcome_to_hydratracker">🌊 مرحبًا بكم في HydraTracker! 🌊</string>
+    <string name="staying_hydratedy">الحفاظ على الترطيب هو أحد أبسط الجوانب وأكثرها أهمية لنمط حياة صحي. HydraTracker هو **مساعد الترطيب الشخصي** الخاص بك، المصمم لمساعدتك على **مراقبة وتحسين** استهلاكك اليومي للماء بسهولة.</string>
+    <string name="why_stay_hydrated">لماذا يجب أن تبقى رطبًا؟</string>
+    <string name="boosts_energy_levels"><![CDATA[✅ يعزز مستويات الطاقة ⚡\n ✅ يحسن التركيز ووظائف الدماغ 🧠\n ✅ يعزز صحة البشرة والهضم ✨\n ✅ يمنع الجفاف والإرهاق 💧\n ✅ يدعم الصحة العامة 💙\n]]></string>
+    <string name="track_your_progress">- تتبع تقدمك 📊 :</string>
+    <string name="monitor_your_daily_weekly">راقب عادات الترطيب اليومية والأسبوعية والشهرية باستخدام مخططات سهلة الفهم.</string>
+    <string name="dark_mode_support">- دعم الوضع الليلي 🌙 :</string>
+    <string name="customize_your_experience">خصّص تجربتك مع وضع ليلي أنيق لرؤية أفضل في الليل.</string>
+    <string name="lightweight_amp_battery_friendly"><![CDATA[- خفيف الوزن وصديق للبطارية ⚡ :]]></string>
+    <string name="designed_to_work_efficiently_witho">مصمم للعمل بكفاءة دون استنزاف بطارية هاتفك.</string>
+    <string name="user_friendly_interface">- واجهة مستخدم سهلة الاستخدام 🎨 :</string>
+    <string name="a_clean_minimal">تصميم نظيف وبسيط وبديهي لتجربة تتبع سلسة.</string>
+    <string name="no_ads_100_free">- بدون إعلانات، 100% مجاني 🚀 :</string>
+    <string name="focus_on_your_health_without_distractions">ركز على صحتك دون إلهاءات.</string>
+    <string name="send_feedback">إرسال ملاحظات</string>
+    <string name="drinking_time">وقت الشرب</string>
+
+
+</resources>

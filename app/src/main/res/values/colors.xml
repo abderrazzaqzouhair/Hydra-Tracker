@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue100">#5DCCFC</color>
+    <color name="blue50">#EDF6FA</color>
+    <color name="blue10">#EFF9FD</color>
+    <color name="blue">#00CEFB</color>
+    <color name="textColo">#625D5D</color>
+    <color name="darkBlue">#0F80FD</color>
+    <color name="inputBackground">#FFFFFFFF</color>
+    <color name="inputTextColor">#000000</color>
+    <color name="inputHintColor">#625D5D</color>
+    <color name="progress_10">#C5FA7167</color>  <!-- Rouge foncé -->
+    <color name="progress_100">#C03AF442</color> <!-- Vert foncé -->
+
+</resources>
