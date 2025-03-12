@@ -10,7 +10,7 @@
 ✅ Lightweight and easy to use  
 
 ## 📥 Download the APK  
-🔗 [Download Hydra Tracker APK](#)  
+🔗 [Download Hydra Tracker APK]()  
 
 ## 🚀 Installation  
 1. Download the APK from the link above.  
@@ -21,4 +21,4 @@
 ## 🛠 How to Build from Source  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/HydraTracker.git
+   git clone https://github.com/abderrazzaqzouhair/Hydra-Tracker.git
