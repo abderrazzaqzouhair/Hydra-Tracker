@@ -2,8 +2,8 @@
 *A simple and intuitive app to track your daily water intake!*  
 
 ![Hydra Tracker Banner](https://github.com/abderrazzaqzouhair/Hydra-Tracker/blob/main/img/screenzy-1741660600429.png)
-![Hydra Tracker Banner](https://raw.githubusercontent.com/abderrazzaqzouhair/HydraTracker/main/img/screenzy-1741660600429.png)
-![Hydra Tracker Banner](https://raw.githubusercontent.com/abderrazzaqzouhair/HydraTracker/main/img/screenzy-1741660711395.png)
+![Hydra Tracker Banner](https://github.com/abderrazzaqzouhair/Hydra-Tracker/blob/main/img/screenzy-1741660600429.png)
+![Hydra Tracker Banner](https://github.com/abderrazzaqzouhair/Hydra-Tracker/blob/main/img/screenzy-1741660711395.png)
 
 
 ## 📌 Features  
