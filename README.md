@@ -10,7 +10,7 @@
 ✅ Lightweight and easy to use  
 
 ## 📥 Download the APK  
-🔗 [Download Hydra Tracker APK]()  
+🔗 [Download Hydra Tracker APK](https://github.com/abderrazzaqzouhair/Hydra-Tracker/blame/main/app/release/Hydra%20Tracker.apk)  
 
 ## 🚀 Installation  
 1. Download the APK from the link above.  
